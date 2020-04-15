@@ -1,4 +1,6 @@
 # Module Installed
-Redux
-React Navigation
-React Native DotEnv
+Redux\n
+Redux Thunk\n
+React Navigation\n
+React Native DotEnv\n
+
